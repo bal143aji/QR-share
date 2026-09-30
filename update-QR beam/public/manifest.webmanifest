@@ -1,0 +1,3 @@
+{ "name": "QRBeam", "short_name": "QRBeam", "description": "Wireless-free optical file transfer", "start_url": "/", "scope": "/",
+  "display": "standalone", "background_color": "#08131b", "theme_color": "#0e1a1f",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }] }
